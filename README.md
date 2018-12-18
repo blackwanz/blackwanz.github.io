@@ -1,2 +1,4 @@
 # blackwanz.github.io
-github .io deploy
+
+visit:
+https://blackwanz.github.io
